@@ -1,84 +1,84 @@
-package name                          ,app name                     ,app feature
-com.iojess.todont                     ,To Don't - Break Bad Habits  ,Create a list of things you want to avoid doing and when you shouldn't do them
-com.iojess.todont                     ,To Don't - Break Bad Habits  ,Answer daily questions to track your progress
-com.iojess.todont                     ,To Don't - Break Bad Habits  ,break bad habits by building streaks over time
-com.iojess.todont                     ,To Don't - Break Bad Habits  ,View your activity history
-com.iojess.todont                     ,To Don't - Break Bad Habits  ,Customize your day by specifying which questions appear on which days of the week
-com.iojess.todont                     ,To Don't - Break Bad Habits  ,Pause your questions until you're ready to resume them.
-com.todontlist                        ,ToDon’tList                  ,"You can create any bad habit, set an icon for it and the time from which the abstinence countdown will start."
-com.todontlist                        ,ToDon’tList                  ,Under each habit there is a timer that counts down the time since the last habit event every second!
-com.todontlist                        ,ToDon’tList                  ,Each event is marked in the calendar of events
-com.todontlist                        ,ToDon’tList                  ,Average abstinence time
-com.todontlist                        ,ToDon’tList                  ,Maximum abstinence time
-com.todontlist                        ,ToDon’tList                  ,Minimum abstinence time
-com.todontlist                        ,ToDon’tList                  ,Time since first habit event
-com.todontlist                        ,ToDon’tList                  ,Number of habit events in the current month
-com.todontlist                        ,ToDon’tList                  ,Number of habit events in the past month
-com.todontlist                        ,ToDon’tList                  ,Total number of habit events
-com.todontlist                        ,ToDon’tList                  ,customize the title and specific habits that will be shown in it
-com.todontlist                        ,ToDon’tList                  ,"in the main screen, you will be met every time with progress in your habits"
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,easy and simple entering of harmful habits and addictions
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,"help in quitting alcohol, drug, caffeine, food, and sugar addictions"
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,customize your bad habits
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,set weekly average expenses for a particular addiction
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,"sobriety counter in hours, days, and money"
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,rewards system
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,motivation with reasons why to quit a certain habit
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,detailed statistics about each addiction
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,trophies for achievements
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,quote of the day for motivation and keeping focus
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,pin code to prevent other people to enter the app
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,ability to change the color theme
-kolmachikhin.alexander.breakbadhabits ,Break Bad Habits             ,Progress and daily quotes notifications
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,easy and simple entering of harmful habits and addictions
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,"help in quitting alcohol, drug, caffeine, food, and sugar addictions"
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,customize your bad habits
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,set weekly average expenses for a particular addiction
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,"sobriety counter in hours, days, and money"
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,rewards system
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,motivation with reasons why to quit a certain habit
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,detailed statistics about each addiction
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,trophies for achievements
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,quote of the day for motivation and keeping focus
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,pin code to prevent other people to enter the app
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,ability to change the color theme
-com.despdev.quitzilla                 ,Quitzilla: Bad Habit Tracker ,Progress and daily quotes notifications
-com.oristats.habitbull                ,Habit Bull                   ,Get notified whenever you need to do something important.
-app.nifu.simpletodo                   ,Simple ToDo List & Tasks     ,manage your tasks
-app.nifu.simpletodo                   ,Simple ToDo List & Tasks     ,"you can synchronize data between terminals,"
-app.nifu.simpletodo                   ,Simple ToDo List & Tasks     ,Data can be inherited even if the terminal is changed.
-com.app.nexdo                         ,To Do List - Nexdo           ,Managing your tasks or notes
-com.app.nexdo                         ,To Do List - Nexdo           ,Staying organized
-com.app.nexdo                         ,To Do List - Nexdo           ,Keeping tasks on Notification
-com.app.nexdo                         ,To Do List - Nexdo           ,Dark Theme
-com.app.nexdo                         ,To Do List - Nexdo           ,"Nexdo widget, Reminder & persistent todos cloud store."
-com.google.android.apps.tasks         ,Google Tasks                 ,Create task lists with your most important to-dos
-com.google.android.apps.tasks         ,Google Tasks                 ,"View, edit, and manage tasks on the go, from any device"
-com.google.android.apps.tasks         ,Google Tasks                 ,Manage tasks created in Gmail or Calendar on the web from your mobile device
-com.google.android.apps.tasks         ,Google Tasks                 ,Break down your tasks to subtasks
-com.google.android.apps.tasks         ,Google Tasks                 ,Add details about the work you need to focus on
-com.google.android.apps.tasks         ,Google Tasks                 ,Edit details about any task as your work progresses
-com.google.android.apps.tasks         ,Google Tasks                 ,Create a task directly from an email in Gmail
-com.google.android.apps.tasks         ,Google Tasks                 ,View your tasks in the side panel of Gmail
-com.google.android.apps.tasks         ,Google Tasks                 ,Trace a task back to its source email
-com.google.android.apps.tasks         ,Google Tasks                 ,Set a due date for every task to help you achieve your goals
-com.google.android.apps.tasks         ,Google Tasks                 ,Organize your tasks by date or prioritize using drag-and-drop
-com.google.android.apps.tasks         ,Google Tasks                 ,Receive due date notification reminders to keep your tasks on track
-com.google.android.apps.tasks         ,Google Tasks                 ,"Bring Google's suite of powerful, intelligent apps to your business Leverage Google’s AI to bring data insights and analysis to every employee"
-com.google.android.apps.tasks         ,Google Tasks                 ,"Connect with your team seamlessly using one suite: Gmail, Tasks, Calendar & more"
-com.habitrpg.android.habitica         ,Habitica: Gamify Your Tasks  ,"Set personal goals, track your progress, and motivate yourself"
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,"Automatically repeating tasks scheduled for your daily, weekly, or monthly routines"
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Flexible habit tracker for tasks you want to do multiple times a day or only once in awhile
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Traditional to do list for tasks that only need to be done once
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Color coded tasks and streak counters help you see how you’re doing at a glance
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Leveling system to visualize your overall progress
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Tons of collectable gear and pets to suit your personal style
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,"Inclusive avatar customizations: wheelchairs, hair styles, skin tones, and more"
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Regular content releases and seasonal events to keep things fresh
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Parties let you team up with friends for extra accountability and battle fierce foes by completing tasks
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Challenges offer shared task lists you can add to your personal tasks
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Guilds let you connect with others that share your interests and goals
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Reminders and widgets to help keep you on track
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Customizable color themes with dark and light mode
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Syncing across devices
-com.apalon.to.do.list                 ,Productive - Habit tracker   ,Brand new WearOS watch app available in version 4.0!
+package name,app name ,app feature
+com.iojess.todont,To Don't - Break Bad Habits,Create a list of things you want to avoid doing and when you shouldn't do them
+com.iojess.todont,To Don't - Break Bad Habits,Answer daily questions to track your progress
+com.iojess.todont,To Don't - Break Bad Habits,break bad habits by building streaks over time
+com.iojess.todont,To Don't - Break Bad Habits,View your activity history
+com.iojess.todont,To Don't - Break Bad Habits,Customize your day by specifying which questions appear on which days of the week
+com.iojess.todont,To Don't - Break Bad Habits,Pause your questions until you're ready to resume them.
+com.todontlist,ToDon’tList,"You can create any bad habit, set an icon for it and the time from which the abstinence countdown will start."
+com.todontlist,ToDon’tList,Under each habit there is a timer that counts down the time since the last habit event every second!
+com.todontlist,ToDon’tList,Each event is marked in the calendar of events
+com.todontlist,ToDon’tList,Average abstinence time
+com.todontlist,ToDon’tList,Maximum abstinence time
+com.todontlist,ToDon’tList,Minimum abstinence time
+com.todontlist,ToDon’tList,Time since first habit event
+com.todontlist,ToDon’tList,Number of habit events in the current month
+com.todontlist,ToDon’tList,Number of habit events in the past month
+com.todontlist,ToDon’tList,Total number of habit events
+com.todontlist,ToDon’tList,customize the title and specific habits that will be shown in it
+com.todontlist,ToDon’tList,"in the main screen, you will be met every time with progress in your habits"
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,easy and simple entering of harmful habits and addictions
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,"help in quitting alcohol, drug, caffeine, food, and sugar addictions"
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,customize your bad habits
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,set weekly average expenses for a particular addiction
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,"sobriety counter in hours, days, and money"
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,rewards system
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,motivation with reasons why to quit a certain habit
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,detailed statistics about each addiction
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,trophies for achievements
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,quote of the day for motivation and keeping focus
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,pin code to prevent other people to enter the app
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,ability to change the color theme
+kolmachikhin.alexander.breakbadhabits,Break Bad Habits,Progress and daily quotes notifications
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,easy and simple entering of harmful habits and addictions
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,"help in quitting alcohol, drug, caffeine, food, and sugar addictions"
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,customize your bad habits
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,set weekly average expenses for a particular addiction
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,"sobriety counter in hours, days, and money"
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,rewards system
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,motivation with reasons why to quit a certain habit
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,detailed statistics about each addiction
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,trophies for achievements
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,quote of the day for motivation and keeping focus
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker,pin code to prevent other people to enter the app
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker, ability to change the color theme
+com.despdev.quitzilla,Quitzilla: Bad Habit Tracker, Progress and daily quotes notifications
+com.oristats.habitbull,Habit Bull,Get notified whenever you need to do something important.
+app.nifu.simpletodo,Simple ToDo List & Tasks,manage your tasks
+app.nifu.simpletodo,Simple ToDo List & Tasks,"you can synchronize data between terminals,"
+app.nifu.simpletodo,Simple ToDo List & Tasks,Data can be inherited even if the terminal is changed.
+com.app.nexdo,To Do List - Nexdo,Managing your tasks or notes
+com.app.nexdo,To Do List - Nexdo,Staying organized
+com.app.nexdo,To Do List - Nexdo,Keeping tasks on Notification
+com.app.nexdo,To Do List - Nexdo,Dark Theme
+com.app.nexdo,To Do List - Nexdo,"Nexdo widget, Reminder & persistent todos cloud store."
+com.google.android.apps.tasks,Google Tasks,Create task lists with your most important to-dos
+com.google.android.apps.tasks,Google Tasks,"View, edit, and manage tasks on the go, from any device"
+com.google.android.apps.tasks,Google Tasks,Manage tasks created in Gmail or Calendar on the web from your mobile device
+com.google.android.apps.tasks,Google Tasks,Break down your tasks to subtasks
+com.google.android.apps.tasks,Google Tasks,Add details about the work you need to focus on
+com.google.android.apps.tasks,Google Tasks,Edit details about any task as your work progresses
+com.google.android.apps.tasks,Google Tasks,Create a task directly from an email in Gmail
+com.google.android.apps.tasks,Google Tasks,View your tasks in the side panel of Gmail
+com.google.android.apps.tasks,Google Tasks,Trace a task back to its source email
+com.google.android.apps.tasks,Google Tasks,Set a due date for every task to help you achieve your goals
+com.google.android.apps.tasks,Google Tasks,Organize your tasks by date or prioritize using drag-and-drop
+com.google.android.apps.tasks,Google Tasks,Receive due date notification reminders to keep your tasks on track
+com.google.android.apps.tasks,Google Tasks,"Bring Google's suite of powerful, intelligent apps to your business Leverage Google’s AI to bring data insights and analysis to every employee"
+com.google.android.apps.tasks,Google Tasks,"Connect with your team seamlessly using one suite: Gmail, Tasks, Calendar & more"
+com.habitrpg.android.habitica,Habitica: Gamify Your Tasks,"Set personal goals, track your progress, and motivate yourself"
+com.apalon.to.do.list,Productive - Habit tracker,"Automatically repeating tasks scheduled for your daily, weekly, or monthly routines"
+com.apalon.to.do.list,Productive - Habit tracker,Flexible habit tracker for tasks you want to do multiple times a day or only once in awhile
+com.apalon.to.do.list,Productive - Habit tracker,Traditional to do list for tasks that only need to be done once
+com.apalon.to.do.list,Productive - Habit tracker,Color coded tasks and streak counters help you see how you’re doing at a glance
+com.apalon.to.do.list,Productive - Habit tracker,Leveling system to visualize your overall progress
+com.apalon.to.do.list,Productive - Habit tracker,Tons of collectable gear and pets to suit your personal style
+com.apalon.to.do.list,Productive - Habit tracker,"Inclusive avatar customizations: wheelchairs, hair styles, skin tones, and more"
+com.apalon.to.do.list,Productive - Habit tracker,Regular content releases and seasonal events to keep things fresh
+com.apalon.to.do.list,Productive - Habit tracker,Parties let you team up with friends for extra accountability and battle fierce foes by completing tasks
+com.apalon.to.do.list,Productive - Habit tracker,Challenges offer shared task lists you can add to your personal tasks
+com.apalon.to.do.list,Productive - Habit tracker,Guilds let you connect with others that share your interests and goals
+com.apalon.to.do.list,Productive - Habit tracker,Reminders and widgets to help keep you on track
+com.apalon.to.do.list,Productive - Habit tracker,Customizable color themes with dark and light mode
+com.apalon.to.do.list,Productive - Habit tracker,Syncing across devices
+com.apalon.to.do.list,Productive - Habit tracker,Brand new WearOS watch app available in version 4.0!
